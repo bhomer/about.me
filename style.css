@@ -4,6 +4,8 @@ body {
 	width: 100%;
 	background-color: gray;
 	background-image:url('./benandbrynn.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 .profile-container {
 	position: absolute;
@@ -48,3 +50,7 @@ a {
 	padding-left: 50px;
 	font-size: 1.5em;
 }
+
+/*desktop css*/
+
+
